@@ -13,7 +13,12 @@
     },
     "dnsNameForPublicIP": {
       "value": "myDnsName"
+    },
+    "location": {
+      "value": "west US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
     }
   }
 }
-
